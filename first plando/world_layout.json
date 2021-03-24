@@ -1,14 +1,14 @@
 {
-    "input_iso": "prime.iso",
+    "input_iso": "prime-practice-mod.iso",
     "output_iso": "Bash_first_plando.iso",
     "mpdrp_version": 3,
     "seed":555,
-    "new_save_starting_items":2147483647,
+    "new_save_starting_items":6291456,
     "frigate_done_starting_items":0,
     "new_save_spawn_room":"Crater:Crater Tunnel B",
-    "frigate_done_spawn_room":"Tallon:Credits",
+    "frigate_done_spawn_room":"Tallon:Landing Site",
     "patch_settings":{
-        "enable_one_way_doors":true,
+        "enable_one_way_doors":false,
         "fix_flaaghra_music":false,
         "trilogy_iso":"",
         "patch_map":true,
@@ -27,8 +27,19 @@
         "remove_mine_security_station_locks":true,
         "tiny_elvetator_samus":false
     },
-    "layout_string":"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "layout_string":"!nXUJ0rOiA48WAvc5GsbonuEz88RDytIP23soucs7u2RfvD68-EYlbJahoQWhbqlUBWouV16ZrjVKTB7GTfcMH1d",
     "superheated_rooms":[],
+    "drain_liquid_rooms": [
+        "Tallon:Savestation",
+        "Tallon:Reactor Access",
+        "Tallon:Reactor Core",
+        "Tallon:Main Ventilation Shaft Section A",
+        "Tallon:Main Ventilation Shaft Section B",
+        "Tallon:Main Ventilation Shaft Section C",
+        "Tallon:Frigate Crash Site",
+        "Tallon:Waterfall Cavern",
+        "Tallon:Landing Site"
+    ],
     "door_weights": {
         "chozo_ruins":[25,25,25,25],
         "magmoor_caverns":[25,25,25,25],
@@ -36,6 +47,28 @@
         "phendrana_drifts":[25,25,25,25],
         "tallon_overworld":[25,25,25,25]
     },
+    "elevator_layout_override":[
+        "credits",
+        "Frigate:Exterior Docking Hangar",
+        "Crater:Crater Entry Point",
+        "Chozo:Main Plaza",
+        "Phendrana:Transport to Magmoor Caverns West",
+        "Chozo:Main Plaza",
+        "Chozo:Main Plaza",
+        "Chozo:Main Plaza",
+        "Chozo:Main Plaza",
+        "Chozo:Main Plaza",
+        "Chozo:Main Plaza",
+        "Chozo:Main Plaza",
+        "Chozo:Main Plaza",
+        "Chozo:Main Plaza",
+        "Chozo:Main Plaza",
+        "Chozo:Main Plaza",
+        "Chozo:Main Plaza",
+        "Chozo:Main Plaza",
+        "Chozo:Main Plaza",
+        "Phendrana:Research Core"
+    ],
     "excluded_doors": [
         {
             "Air Lock":["blue","blue"],
@@ -309,11 +342,11 @@
             "Waste Disposal":["blue","blue"]
         },
         {
-            "Crater Entry Point":["blue"],
+            "Crater Entry Point":["super"],
             "Crater Missile Station":["blue"],
-            "Crater Tunnel A":["blue","blue"],
-            "Crater Tunnel B":["blue","blue"],
-            "Phazon Core":["blue","blue","blue"],
+            "Crater Tunnel A":["wavebuster","blue"],
+            "Crater Tunnel B":["flamethrower","blue"],
+            "Phazon Core":["blue","blue","icespreader"],
             "Phazon Infusion Chamber":["blue","blue"]
         }
     ]

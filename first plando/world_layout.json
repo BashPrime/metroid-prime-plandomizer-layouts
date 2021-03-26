@@ -145,13 +145,13 @@
             "Deck Beta Conduit Hall":["blue","blue"],
             "Deck Beta Security Hall":["blue","blue"],
             "Deck Beta Transit Hall":["blue","blue"],
-            "Frigate Access Tunnel":["blue","blue"],
-            "Frigate Crash Site":["blue","blue","purple"],
+            "Frigate Access Tunnel":["blue","purple"],
+            "Frigate Crash Site":["purple","purple","purple"],
             "Great Tree Chamber":["blue"],
             "Great Tree Hall":["blue","blue","blue","blue","blue"],
             "Gully":["purple","blue"],
             "Hydro Access Tunnel":["blue","blue"],
-            "Landing Site":["blue","blue","blue","disabled","blue"],
+            "Landing Site":["blue","blue","blue","disabled","purple"],
             "Life Grove":["blue"],
             "Life Grove Tunnel":["blue","blue"],
             "Main Ventilation Shaft Section A":["blue","blue"],
@@ -177,7 +177,7 @@
             "Transport to Chozo Ruins West":["blue"],
             "Transport to Magmoor Caverns East":["blue"],
             "Transport to Phazon Mines East":["blue"],
-            "Waterfall Cavern":["blue","blue"]
+            "Waterfall Cavern":["purple","purple"]
         },
         {
             "Antechamber":["blue"],

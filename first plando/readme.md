@@ -21,30 +21,47 @@
 <details>
   <summary>Full Walkthrough</summary>
 
-    Start with: 5 Missiles, Morph Ball
+    Start with: 10 Missiles, Morph Ball
 
     Research Lab Aether (Tank) - Scan Visor
-    Research Core - Grapple Beam
+    Research Core - Morph Ball Bomb
     Gravity Chamber ("Underwater") - Space Jump Boots
-    Security Cave - Wave Beam
-    Research Lab (Aether) - Energy Tank
-    Frost Cave - Energy Tank
-    Arbor Chamber - Charge Beam
+    Research Lab Aether (Morph Track) - Grapple Beam
+    Frost Cave - Missile Expansion
+    Security Cave - Energy Tank
+    Quarantine Monitor - Missile Expansion
     Transport Tunnel B - Missile Expansion
-    Storage Depot B - Super Missile
-    Quarantine Cave - Power Bomb
-    Elite Research (Phazon Elite) - X-Ray Visor
-    Elite Quarters - Missile Expansion
+    Quarantine Cave - Charge Beam
+    Control Tower - Missile Expansion
+    Arbor Chamber - Spider Ball
+    Storage Depot B - Energy Tank
+    Elite Control Access - Missile Expansion
+    Central Dynamo - Power Bomb
+    Ventilation Shaft - Boost Ball
+    Elite Research (Phazon Elite) - Energy Tank
+    Elite Research (Laser) - Wave Beam
+    Phazon Processing Center - Energy Tank
+    Observatory - X-Ray Visor
+    Ruined Courtyard - Missile Expansion
+    Chapel of the Elders - Energy Tank
+    Ice Ruins East (Spider Track) - Super Missile
+    Phendrana Shorelines (Spider Track) - Energy Tank
+    Metroid Quarantine A - Missile Expansion
+    Fungal Hall Access - Energy Tank
+    Fungal Hall B - Missile Expansion
+    Metroid Quarantine B - "Super Missile"
+    Elite Quarters - Nothing Item
     Processing Center Access - Ice Beam
-
-    Cargo Freight Lift to Deck Gamma - Gravity Suit
+    Research Lab Hydra - "Super Missile"
+    Cargo Freight Lift to Deck Gamma - Energy Tank
+    Biohazard Containment - "Super Missile"
+    Hydro Access Tunnel - Missile Expansion
     Storage Cavern - Varia Suit
-    Sunchamber (Flaahgra) - Flamethrower
-    Sunchamber (Ghosts) - Plasma Beam
-    Vault - Boost Ball
-
+    Sunchamber (Flaahgra) - Nothing Item
+    Sunchamber (Ghosts) - Flamethrower
+    Vault - Plasma Beam
     Artifact Temple - Phazon Suit
-
-
+    Phazon Mining Tunnel - Thermal Visor
+    Artifact Temple --> Impact Crater
     Impact Crater --> Metroid Prime
 </details>

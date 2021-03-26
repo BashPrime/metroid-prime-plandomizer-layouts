@@ -1,5 +1,5 @@
 {
-    "input_iso": "prime-practice-mod.iso",
+    "input_iso": "prime.iso",
     "output_iso": "Relics_of_a_Dying_Planet.iso",
     "mpdrp_version": 3,
     "seed": 555,
@@ -328,7 +328,7 @@
             "Research Core":["blue","blue"],
             "Research Core Access":["blue","blue"],
             "Research Entrance":["blue","blue","blue"],
-            "Research Lab Aether":["charge","blue"],
+            "Research Lab Aether":["bomb","blue"],
             "Research Lab Hydra":["blue","blue"],
             "Ruined Courtyard":["blue","blue","blue","blue"],
             "Ruins Entryway":["blue","blue"],

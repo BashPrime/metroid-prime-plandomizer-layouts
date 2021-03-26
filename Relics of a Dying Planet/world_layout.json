@@ -80,7 +80,9 @@
         "Magmoor:Monitor Station",
         "Magmoor:Monitor Tunnel",
         "Magmoor:Triclops Pit",
-        "Magmoor:Lava Lake"
+        "Magmoor:Lava Lake",
+        "Magmoor:Lake Tunnel",
+        "Magmoor:Burning Trail"
     ],
     "door_weights": {
         "chozo_ruins": [25,25,25,25],

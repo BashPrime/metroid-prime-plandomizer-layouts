@@ -151,7 +151,7 @@
             "Great Tree Hall":["blue","blue","blue","blue","blue"],
             "Gully":["purple","blue"],
             "Hydro Access Tunnel":["blue","blue"],
-            "Landing Site":["blue","blue","white","disabled","blue"],
+            "Landing Site":["blue","blue","blue","disabled","blue"],
             "Life Grove":["blue"],
             "Life Grove Tunnel":["blue","blue"],
             "Main Ventilation Shaft Section A":["blue","blue"],
@@ -165,8 +165,8 @@
             "Savestation":["blue"],
             "Tallon Canyon":["purple","blue","purple","blue"],
             "Temple Hall":["blue","blue"],
-            "Temple Lobby":["blue","blue"],
-            "Temple Security Station":["blue","blue"],
+            "Temple Lobby":["blue","white"],
+            "Temple Security Station":["blue","white"],
             "Transport Tunnel A":["blue","blue"],
             "Transport Tunnel B":["blue","blue"],
             "Transport Tunnel C":["blue","blue"],
@@ -335,7 +335,7 @@
             "West Tower Entrance":["blue","blue"]
         },
         {
-            "Central Dynamo":["blue","purple","blue"],
+            "Central Dynamo":["blue","super","blue"],
             "Dynamo Access":["blue","blue"],
             "Elevator A":["blue","blue"],
             "Elevator Access A":["blue","blue"],
@@ -381,9 +381,9 @@
         {
             "Crater Entry Point":["red"],
             "Crater Missile Station":["blue"],
-            "Crater Tunnel A":["blue","blue"],
-            "Crater Tunnel B":["blue","blue"],
-            "Phazon Core":["blue","blue","blue"],
+            "Crater Tunnel A":["red","blue"],
+            "Crater Tunnel B":["red","blue"],
+            "Phazon Core":["blue","blue","red"],
             "Phazon Infusion Chamber":["blue","blue"]
         }
     ]

@@ -151,7 +151,7 @@
             "Great Tree Hall":["blue","blue","blue","blue","blue"],
             "Gully":["purple","blue"],
             "Hydro Access Tunnel":["blue","blue"],
-            "Landing Site":["blue","blue","red","disabled","blue"],
+            "Landing Site":["blue","blue","white","disabled","blue"],
             "Life Grove":["blue"],
             "Life Grove Tunnel":["blue","blue"],
             "Main Ventilation Shaft Section A":["blue","blue"],
@@ -379,7 +379,7 @@
             "Waste Disposal":["blue","blue"]
         },
         {
-            "Crater Entry Point":["blue"],
+            "Crater Entry Point":["red"],
             "Crater Missile Station":["blue"],
             "Crater Tunnel A":["blue","blue"],
             "Crater Tunnel B":["blue","blue"],

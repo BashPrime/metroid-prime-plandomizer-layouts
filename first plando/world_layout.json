@@ -1,6 +1,6 @@
 {
     "input_iso": "prime.iso",
-    "output_iso": "Bashs_Butter_Flutter.iso",
+    "output_iso": "Tallon_IV_Epilogue.iso",
     "mpdrp_version": 3,
     "seed": 555,
     "new_save_starting_items": 2097704,
@@ -58,6 +58,7 @@
         "Phendrana:Hunter Cave",
         "Phendrana:Gravity Chamber",
         "Phendrana:Phendrana's Edge",
+        "Tallon:Tallon Canyon",
         "Tallon:Landing Site",
         "Tallon:Waterfall Cavern",
         "Tallon:Frigate Crash Site",

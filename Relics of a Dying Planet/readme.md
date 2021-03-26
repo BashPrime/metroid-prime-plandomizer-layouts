@@ -10,11 +10,16 @@ Samus wakes up to find that she passed out on Tallon IV. This wouldn't be a big 
 - A completely shifted around early game. Nearly all of the water (and some lava) has been drained from Tallon IV, making some areas considerably more accessible than usual!
 - As far as I am aware, the only risk of softlocking is at the very beginning of the game in one room.
 - A challenging early game due to initial lack of resources, with a challenging lategame section that demands as many resources as you can collect in the interim.
+- Mine Security Station is unlocked.
+- Missile locks are removed.
+- The frigidite lock in Elite Quarters Access is removed.
+- Varia-only heat protection is enabled.
 
 # Techniques
 
 ## Required
 - Double Bomb Jumps in early game
+- Entering "underwater" areas without Gravity Suit
 - Without getting too much into spoilers, the more Energy Tanks you find for the lategame, the better.
 - Patience.
 

@@ -1,5 +1,5 @@
 {
-    "input_iso": "prime.iso",
+    "input_iso": "prime-practice-mod.iso",
     "output_iso": "Relics_of_a_Dying_Planet.iso",
     "mpdrp_version": 3,
     "seed": 555,
@@ -29,6 +29,9 @@
     },
     "layout_string": "!dWeMt3pX8uMIOsFPuhSB0Snp0hcRELIaomz03yzCdIBd4vd1KghK6_Gofph85JcrJaUpPBVQ-12k70M-rwUDR89",
     "superheated_rooms":[
+        "Mines:Transport Access",
+        "Mines:Transport to Magmoor Caverns South",
+        "Chozo:Transport to Magmoor Caverns North",
         "Chozo:Sun Tower Access",
         "Chozo:Sun Tower Access",
         "Chozo:Sun Tower Access",
@@ -60,6 +63,7 @@
         "Phendrana:Lower Edge Tunnel",
         "Phendrana:Phendrana's Edge",
         "Tallon:Transport to Magmoor Caverns East",
+        "Tallon:Root Tunnel",
         "Tallon:Tallon Canyon",
         "Tallon:Landing Site",
         "Tallon:Waterfall Cavern",

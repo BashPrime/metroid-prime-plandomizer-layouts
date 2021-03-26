@@ -48,7 +48,8 @@
         "Chozo:Vault",
         "Chozo:Vault",
         "Chozo:Vault",
-        "Chozo:Vault"
+        "Chozo:Vault",
+        "Magmoor:Storage Cavern"
     ],
     "drain_liquid_rooms": [
         "Phendrana:Frozen Pike",
@@ -76,7 +77,8 @@
         "Tallon:Great Tree Hall",
         "Magmoor:Monitor Station",
         "Magmoor:Monitor Tunnel",
-        "Magmoor:Triclops Pit"
+        "Magmoor:Triclops Pit",
+        "Magmoor:Lava Lake"
     ],
     "door_weights": {
         "chozo_ruins": [25,25,25,25],
@@ -100,7 +102,7 @@
         "Magmoor:Transport to Phendrana Drifts North",
         "Tallon:Transport to Magmoor Caverns East",
         "Chozo:Transport to Magmoor Caverns North",
-        "Tallon:Alcove",
+        "Tallon:Transport to Chozo Ruins East",
         "Tallon:Transport to Phazon Mines East",
         "Tallon:Alcove",
         "Tallon:Alcove",
@@ -271,7 +273,7 @@
             "Transport to Phendrana Drifts North":["blue"],
             "Transport to Phendrana Drifts South":["blue","blue"],
             "Transport to Tallon Overworld West":["blue","blue"],
-            "Triclops Pit":["blue","blue","disabled"],
+            "Triclops Pit":["blue","blue","blue"],
             "Twin Fires":["blue","blue"],
             "Twin Fires Tunnel":["blue","blue"],
             "Warrior Shrine":["blue","blue"],
@@ -346,7 +348,7 @@
             "Elite Control Access":["blue","blue"],
             "Elite Quarters":["blue","blue"],
             "Elite Quarters Access":["blue","blue"],
-            "Elite Research":["blue","blue"],
+            "Elite Research":["purple","blue"],
             "Fungal Hall A":["blue","blue"],
             "Fungal Hall Access":["blue","blue"],
             "Fungal Hall B":["blue","blue","blue"],

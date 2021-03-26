@@ -360,7 +360,7 @@
             "Ore Processing":["blue","blue","blue","blue"],
             "Phazon Mining Tunnel":["blue","blue"],
             "Phazon Processing Center":["purple","blue","white"],
-            "Processing Center Access":["white","white"],
+            "Processing Center Access":["white","blue"],
             "Quarantine Access A":["purple","blue"],
             "Quarantine Access B":["blue","blue"],
             "Quarry Access":["blue","blue"],

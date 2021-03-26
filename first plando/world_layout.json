@@ -27,7 +27,7 @@
         "remove_mine_security_station_locks": true,
         "tiny_elvetator_samus": false
     },
-    "layout_string": "!2TFJlqqbik-l5veQNB20gzOfIE1e1-WMmP1QdHTPT7jMKVWC6_Fy9YPQ2wgLhrFOpniiEyMe2GOCuOH3Sd0mHdf",
+    "layout_string": "!dWeMt3pX8uMIOsFPuhSB0Snp0hcRELIaomz03yzCdIBd4vd1KghK6_Gofph85JcrJaUpPBVQ-12k70M-rwUDR89",
     "superheated_rooms":[
         "Chozo:Sun Tower Access",
         "Chozo:Sun Tower Access",
@@ -243,7 +243,7 @@
             "Transport to Tallon Overworld North":["blue"],
             "Transport to Tallon Overworld South":["blue"],
             "Vault":["plasma","disabled"],
-            "Vault Access":["flamethrower","blue"],
+            "Vault Access":["wavebuster","blue"],
             "Watery Hall":["blue","blue"],
             "Watery Hall Access":["blue","blue"],
             "West Furnace Access":["blue","blue"]

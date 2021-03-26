@@ -335,7 +335,7 @@
             "West Tower Entrance":["blue","blue"]
         },
         {
-            "Central Dynamo":["blue","blue","blue"],
+            "Central Dynamo":["blue","purple","blue"],
             "Dynamo Access":["blue","blue"],
             "Elevator A":["blue","blue"],
             "Elevator Access A":["blue","blue"],
@@ -359,9 +359,9 @@
             "Omega Research":["blue","blue","blue"],
             "Ore Processing":["blue","blue","blue","blue"],
             "Phazon Mining Tunnel":["blue","blue"],
-            "Phazon Processing Center":["blue","blue","blue"],
-            "Processing Center Access":["blue","blue"],
-            "Quarantine Access A":["blue","blue"],
+            "Phazon Processing Center":["purple","blue","white"],
+            "Processing Center Access":["white","white"],
+            "Quarantine Access A":["purple","blue"],
             "Quarantine Access B":["blue","blue"],
             "Quarry Access":["blue","blue"],
             "Research Access":["blue","blue"],

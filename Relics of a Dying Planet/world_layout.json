@@ -52,7 +52,7 @@
         "Chozo:Vault",
         "Chozo:Vault",
         "Chozo:Vault",
-        "Magmoor:Storage Cavern"
+        "Magmoor:Storage Cavern",
     ],
     "drain_liquid_rooms": [
         "Phendrana:Frozen Pike",
@@ -88,6 +88,7 @@
         "Magmoor:Lava Lake",
         "Magmoor:Lake Tunnel",
         "Magmoor:Burning Trail",
+        "Magmoor:Transport to Phendrana Drifts South",
         "Chozo:Sun Tower Access",
         "Chozo:Sunchamber"
     ],
@@ -282,7 +283,7 @@
             "Transport to Chozo Ruins North":["blue"],
             "Transport to Phazon Mines West":["blue"],
             "Transport to Phendrana Drifts North":["blue"],
-            "Transport to Phendrana Drifts South":["disabled","blue"],
+            "Transport to Phendrana Drifts South":["blue","disabled"],
             "Transport to Tallon Overworld West":["blue","blue"],
             "Triclops Pit":["blue","blue","blue"],
             "Twin Fires":["blue","blue"],

@@ -2,7 +2,7 @@
 
 **Author:** BashPrime (Discord: BashPrime#2985)
 
-# Tallon IV: Epilogue
+# Relics of a Dying Planet
 
 Samus wakes up to find that she passed out on Tallon IV. This wouldn't be a big deal, but she was unconscious for an unfathomably long time. The planet has become nearly uninhabitable, with some areas having been sealed away - Tallon Overworld's lakes have dried up, Magmoor's volcanic activity has all but ceased, the Chozo Ruins have almost completely been lost to time, and Phendrana Drifts is still as cold and desolate as ever. Will Samus overcome and escape this hostile planet, or will she fail?
 

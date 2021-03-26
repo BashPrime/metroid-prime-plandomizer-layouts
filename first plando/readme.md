@@ -37,12 +37,14 @@ Samus mysteriously awakens elsewhere on Tallon IV. How long has she been here? W
     Quarantine Cave - Charge Beam
     Control Tower - Missile Expansion
     Arbor Chamber - Spider Ball
+    Security Access A - Missile Expansion
     Storage Depot B - Energy Tank
     Elite Control Access - Missile Expansion
     Central Dynamo - Power Bomb
     Ventilation Shaft - Boost Ball
     Elite Research (Phazon Elite) - Energy Tank
     Elite Research (Laser) - Wave Beam
+    Storage Depot A - Energy Tank
     Phazon Processing Center - Energy Tank
     Observatory - X-Ray Visor
     Ruined Courtyard - Missile Expansion
@@ -63,6 +65,7 @@ Samus mysteriously awakens elsewhere on Tallon IV. How long has she been here? W
     Sunchamber (Flaahgra) - Nothing Item
     Sunchamber (Ghosts) - Flamethrower
     Vault - Plasma Beam
+    Gravity Chamber (Grapple Ledge) - Missile Expansion
     Artifact Temple - Phazon Suit
     Phazon Mining Tunnel - Thermal Visor
     Artifact Temple --> Impact Crater

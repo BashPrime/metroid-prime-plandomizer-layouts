@@ -27,7 +27,7 @@
         "remove_mine_security_station_locks": true,
         "tiny_elvetator_samus": false
     },
-    "layout_string": "!3TEIv7uemh_k5gPAYWyvv2OeYAxav7RcybhRZDHOT7jMKVWqSdtQ_vly2PCjrrwMJwoimYO8-GMAGOn9YX-mHdf",
+    "layout_string": "!jGRd0_-b3x_g5gOFYQn0ljfaYQ0fhuEYja0WZHTPT7jMKVWC6_wy34n62NijLDlGrwqgO6m8emmIOOn_4WVGN3d",
     "superheated_rooms":[
         "Chozo:Sun Tower Access",
         "Chozo:Sun Tower Access",
@@ -354,7 +354,7 @@
             "Map Station Mines":["blue"],
             "Metroid Quarantine A":["blue","blue"],
             "Metroid Quarantine B":["blue","blue","blue"],
-            "Mine Security Station":["blue","blue","blue"],
+            "Mine Security Station":["blue","power_bomb","purple"],
             "Missile Station Mines":["blue"],
             "Omega Research":["blue","blue","blue"],
             "Ore Processing":["blue","blue","blue","blue"],
@@ -368,7 +368,7 @@
             "Save Station Mines A":["blue"],
             "Save Station Mines B":["blue"],
             "Save Station Mines C":["blue"],
-            "Security Access A":["blue","power_bomb"],
+            "Security Access A":["blue","blue"],
             "Security Access B":["blue","blue"],
             "Storage Depot A":["blue"],
             "Storage Depot B":["blue"],

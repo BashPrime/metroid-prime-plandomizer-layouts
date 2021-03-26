@@ -2,8 +2,11 @@
 
 **Author:** BashPrime (Discord: BashPrime#2985)
 
-# Plando Name
-<description>
+# Bash's Butter Flutter
+
+Credit goes to Uncle Reggie and AFB for the name.
+
+Samus mysteriously awakens elsewhere on Tallon IV. How long has she been here? What happened? She must find a way out!
 
 # Features
 - 

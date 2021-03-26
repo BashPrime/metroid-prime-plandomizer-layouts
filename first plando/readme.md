@@ -21,7 +21,7 @@
 <details>
   <summary>Full Walkthrough</summary>
 
-    Start with: 10 Missiles, Morph Ball
+    Start with: 20 Missiles, Morph Ball, 1 Energy Tank
 
     Research Lab Aether (Tank) - Scan Visor
     Research Core - Morph Ball Bomb
